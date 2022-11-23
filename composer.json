@@ -1,0 +1,11 @@
+
+
+{
+  "name": "keelanfh/php-gitpod",
+  "description": "PHP running in Gitpod.",
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "php": ">=8.0"
+    }
+}
